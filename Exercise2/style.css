@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+h1 {
+    color: white;
+}
+ul {
+    list-style-type: '- ';
+}
+
+li {
+    font-size: 18px;
+    background-color: orange;
+}
